@@ -1,0 +1,676 @@
+[
+  {
+    "id": "ord1785402257156",
+    "createdAt": "2026-07-30T09:04:17.156Z",
+    "customer": {
+      "name": "جواد عبد",
+      "phone": "96181123456",
+      "city": "سسيسشي",
+      "address": "سسسسسسسسيسشي",
+      "notes": ""
+    },
+    "items": [
+      {
+        "cartId": "p018__عنابي__S",
+        "productId": "p018",
+        "name": "هودي شتوي دافئ",
+        "price": 55,
+        "color": "عنابي",
+        "size": "S",
+        "qty": 1,
+        "image": "https://picsum.photos/seed/legend-p018-0/800/1000"
+      }
+    ],
+    "total": 55
+  },
+  {
+    "id": "ord1785406055878",
+    "createdAt": "2026-07-30T10:07:35.878Z",
+    "customer": {
+      "name": "EDDSFDFD",
+      "phone": "WEDWEW",
+      "city": "WEDWED",
+      "address": "DDDDSSA",
+      "notes": "WWW"
+    },
+    "items": [
+      {
+        "cartId": "p004__عنابي__XL",
+        "productId": "p004",
+        "name": "كنزة أوفر سايز صوف",
+        "price": 51,
+        "color": "عنابي",
+        "size": "XL",
+        "qty": 1,
+        "image": "https://picsum.photos/seed/legend-p004-1/800/1000"
+      }
+    ],
+    "total": 51
+  },
+  {
+    "id": "ord1785406134482",
+    "createdAt": "2026-07-30T10:08:54.482Z",
+    "customer": {
+      "name": "ERRR",
+      "phone": "3E432423",
+      "city": "343242",
+      "address": "3423",
+      "notes": "4"
+    },
+    "items": [
+      {
+        "cartId": "p003__رمادي__S",
+        "productId": "p003",
+        "name": "كنزة أوفر سايز شتوية",
+        "price": 48,
+        "color": "رمادي",
+        "size": "S",
+        "qty": 1,
+        "image": "https://picsum.photos/seed/legend-p003-0/800/1000"
+      }
+    ],
+    "total": 48
+  },
+  {
+    "id": "ord1785406207418",
+    "createdAt": "2026-07-30T10:10:07.418Z",
+    "customer": {
+      "name": "EWREWREW",
+      "phone": "EWEREW",
+      "city": "EREW",
+      "address": "WERWE",
+      "notes": "R"
+    },
+    "items": [
+      {
+        "cartId": "p004__أبيض__XL",
+        "productId": "p004",
+        "name": "كنزة أوفر سايز صوف",
+        "price": 51,
+        "color": "أبيض",
+        "size": "XL",
+        "qty": 1,
+        "image": "https://picsum.photos/seed/legend-p004-0/800/1000"
+      }
+    ],
+    "total": 51
+  },
+  {
+    "id": "ord1785406252261",
+    "createdAt": "2026-07-30T10:10:52.261Z",
+    "customer": {
+      "name": "RRR",
+      "phone": "R",
+      "city": "REWE",
+      "address": "EWRE",
+      "notes": ""
+    },
+    "items": [
+      {
+        "cartId": "p003__رمادي__L",
+        "productId": "p003",
+        "name": "كنزة أوفر سايز شتوية",
+        "price": 48,
+        "color": "رمادي",
+        "size": "L",
+        "qty": 1,
+        "image": "https://picsum.photos/seed/legend-p003-0/800/1000"
+      }
+    ],
+    "total": 48
+  },
+  {
+    "id": "ord1785406316324",
+    "createdAt": "2026-07-30T10:11:56.324Z",
+    "customer": {
+      "name": "FDERFEREW",
+      "phone": "ERWEW",
+      "city": "ERWE",
+      "address": "EREW",
+      "notes": ""
+    },
+    "items": [
+      {
+        "cartId": "p001__رمادي__L",
+        "productId": "p001",
+        "name": "كنزة أوفر سايز فاخرة",
+        "price": 32,
+        "color": "رمادي",
+        "size": "L",
+        "qty": 1,
+        "image": "https://picsum.photos/seed/legend-p001-0/800/1000"
+      },
+      {
+        "cartId": "p002__ذهبي__S",
+        "productId": "p002",
+        "name": "كنزة أوفر سايز كاجوال",
+        "price": 44,
+        "color": "ذهبي",
+        "size": "S",
+        "qty": 1,
+        "image": "https://picsum.photos/seed/legend-p002-0/800/1000"
+      },
+      {
+        "cartId": "p050__بيج__39",
+        "productId": "p050",
+        "name": "بوت شتوي مبطن",
+        "price": 51,
+        "color": "بيج",
+        "size": "39",
+        "qty": 1,
+        "image": "https://picsum.photos/seed/legend-p050-0/800/1000"
+      },
+      {
+        "cartId": "p027__أسود__L",
+        "productId": "p027",
+        "name": "بنطال جينز كلاسيك",
+        "price": 49,
+        "color": "أسود",
+        "size": "L",
+        "qty": 2,
+        "image": "https://picsum.photos/seed/legend-p027-1/800/1000"
+      }
+    ],
+    "total": 225
+  },
+  {
+    "id": "ord1785584961986",
+    "createdAt": "2026-08-01T11:49:21.986Z",
+    "customer": {
+      "name": "يسهثصهعهث",
+      "phone": "33ص33",
+      "city": "44",
+      "address": "5555",
+      "notes": "غغ"
+    },
+    "items": [
+      {
+        "cartId": "p001__رمادي__XL",
+        "productId": "p001",
+        "name": "كنزة أوفر سايز فاخرة",
+        "price": 32,
+        "color": "رمادي",
+        "size": "XL",
+        "qty": 1,
+        "image": "images/oversiz/oversiz (15).png"
+      }
+    ],
+    "total": 32
+  },
+  {
+    "id": "ord1786098747123",
+    "createdAt": "2026-08-07T10:32:27.123Z",
+    "customer": {
+      "name": "ffggcg",
+      "phone": "1224455",
+      "city": "ggf",
+      "address": "rf",
+      "notes": ""
+    },
+    "items": [
+      {
+        "cartId": "p014__أبيض__M",
+        "productId": "p014",
+        "name": "هودي رياضي",
+        "price": 41,
+        "color": "أبيض",
+        "size": "M",
+        "qty": 1,
+        "image": "/images/t-shirt/t-shirt1 (3).png"
+      },
+      {
+        "cartId": "p014__أسود__XL",
+        "productId": "p014",
+        "name": "هودي رياضي",
+        "price": 41,
+        "color": "أسود",
+        "size": "XL",
+        "qty": 1,
+        "image": "/images/t-shirt/t-shirt1 (10).png"
+      }
+    ],
+    "total": 82
+  },
+  {
+    "id": "ord1786440832626",
+    "createdAt": "2026-08-11T09:33:52.626Z",
+    "customer": {
+      "name": "Jawad Abdine",
+      "phone": "23232",
+      "city": "waaf",
+      "address": "HERMEL",
+      "notes": ""
+    },
+    "items": [
+      {
+        "cartId": "offer__offer-1",
+        "isOffer": true,
+        "offerId": "offer-1",
+        "productId": "p001",
+        "name": "عرض 3 كنزات رياضية",
+        "price": 15,
+        "qty": 2,
+        "image": "/images/offers/amys.png",
+        "selections": [
+          {
+            "color": "سماوي",
+            "size": "S"
+          },
+          {
+            "color": "رمادي",
+            "size": "S"
+          },
+          {
+            "color": "بني ",
+            "size": "S"
+          }
+        ]
+      }
+    ],
+    "total": 30
+  },
+  {
+    "id": "ord1786441129923",
+    "createdAt": "2026-08-11T09:38:49.923Z",
+    "customer": {
+      "name": "Jawad Abdine",
+      "phone": "23",
+      "city": "waaf",
+      "address": "HERMEL",
+      "notes": ""
+    },
+    "items": [
+      {
+        "cartId": "offer__offer-1",
+        "isOffer": true,
+        "offerId": "offer-1",
+        "productId": "p001",
+        "name": "عرض 3 كنزات رياضية",
+        "price": 15,
+        "qty": 1,
+        "image": "/images/offers/amys.png",
+        "selections": [
+          {
+            "color": "رمادي",
+            "size": "M"
+          },
+          {
+            "color": "رمادي",
+            "size": "S"
+          },
+          {
+            "color": "رمادي",
+            "size": "M"
+          }
+        ]
+      }
+    ],
+    "total": 15
+  },
+  {
+    "id": "ord1786441165630",
+    "createdAt": "2026-08-11T09:39:25.630Z",
+    "customer": {
+      "name": "Jawad Abdine",
+      "phone": "بيب",
+      "city": "waaf",
+      "address": "HERMEL",
+      "notes": ""
+    },
+    "items": [
+      {
+        "cartId": "offer__offer-1",
+        "isOffer": true,
+        "offerId": "offer-1",
+        "productId": "p001",
+        "name": "عرض 3 كنزات رياضية",
+        "price": 15,
+        "qty": 1,
+        "image": "/images/offers/amys.png",
+        "selections": [
+          {
+            "color": "رمادي",
+            "size": "M"
+          },
+          {
+            "color": "رمادي",
+            "size": "M"
+          },
+          {
+            "color": "سماوي",
+            "size": "M"
+          }
+        ]
+      }
+    ],
+    "total": 15
+  },
+  {
+    "id": "ord1786441231848",
+    "createdAt": "2026-08-11T09:40:31.848Z",
+    "customer": {
+      "name": "Jawad Abdine",
+      "phone": "323",
+      "city": "waaf",
+      "address": "HERMEL",
+      "notes": ""
+    },
+    "items": [
+      {
+        "cartId": "offer__offer-1",
+        "isOffer": true,
+        "offerId": "offer-1",
+        "productId": "p001",
+        "name": "عرض 3 كنزات رياضية",
+        "price": 15,
+        "qty": 2,
+        "image": "/images/offers/amys.png",
+        "selections": [
+          {
+            "color": "بني ",
+            "size": "S"
+          },
+          {
+            "color": "بني ",
+            "size": "S"
+          },
+          {
+            "color": "بني ",
+            "size": "S"
+          }
+        ]
+      }
+    ],
+    "total": 30
+  },
+  {
+    "id": "ord1786441659437",
+    "createdAt": "2026-08-11T09:47:39.437Z",
+    "customer": {
+      "name": "Jawad Abdine",
+      "phone": "676",
+      "city": "waaf",
+      "address": "HERMEL",
+      "notes": ""
+    },
+    "items": [
+      {
+        "cartId": "p001__بني __S",
+        "productId": "p001",
+        "name": "كنزة أوفر سايز",
+        "price": 5,
+        "color": "بني ",
+        "size": "S",
+        "qty": 1,
+        "image": "images/oversiz/oversiz (9).png"
+      },
+      {
+        "cartId": "offer__offer-1__1786441637497",
+        "isOffer": true,
+        "offerId": "offer-1",
+        "productId": "p001",
+        "name": "عرض 3 كنزات رياضية",
+        "price": 15,
+        "qty": 1,
+        "image": "/images/offers/amys.png",
+        "selections": [
+          {
+            "color": "بني ",
+            "size": "S"
+          },
+          {
+            "color": "بني ",
+            "size": "S"
+          },
+          {
+            "color": "بني ",
+            "size": "S"
+          }
+        ]
+      },
+      {
+        "cartId": "offer__offer-1__1786441650487",
+        "isOffer": true,
+        "offerId": "offer-1",
+        "productId": "p001",
+        "name": "عرض 3 كنزات رياضية",
+        "price": 15,
+        "qty": 1,
+        "image": "/images/offers/amys.png",
+        "selections": [
+          {
+            "color": "رمادي",
+            "size": "XL"
+          },
+          {
+            "color": "سماوي",
+            "size": "S"
+          },
+          {
+            "color": "رمادي",
+            "size": "M"
+          }
+        ]
+      }
+    ],
+    "total": 35
+  },
+  {
+    "id": "ord1786446945732",
+    "createdAt": "2026-08-11T11:15:45.732Z",
+    "customer": {
+      "name": "Jawad Abdine",
+      "phone": "96181123456",
+      "city": "waaf",
+      "address": "HERMEL",
+      "notes": ""
+    },
+    "items": [
+      {
+        "cartId": "offer__offer-1__1786446867646",
+        "isOffer": true,
+        "offerId": "offer-1",
+        "productId": null,
+        "name": "عرض 3 كنزات رياضية",
+        "price": 12,
+        "qty": 1,
+        "image": "/images/offers/offers (1).png",
+        "selections": [
+          {
+            "color": "رمادي",
+            "size": "S"
+          },
+          {
+            "color": "بني",
+            "size": "M"
+          },
+          {
+            "color": "سماوي",
+            "size": "L"
+          },
+          {
+            "color": "رمادي",
+            "size": "M"
+          },
+          {
+            "color": "رمادي",
+            "size": "S"
+          }
+        ]
+      }
+    ],
+    "total": 12
+  },
+  {
+    "id": "ord1786449030611",
+    "createdAt": "2026-08-11T11:50:30.611Z",
+    "customer": {
+      "name": "Jawad Abdine",
+      "phone": "434432432",
+      "city": "waaf",
+      "address": "HERMEL",
+      "notes": ""
+    },
+    "items": [
+      {
+        "cartId": "offer__offer-3__1786448898535",
+        "isOffer": true,
+        "offerId": "offer-3",
+        "productId": null,
+        "name": "عرض اليوفو",
+        "price": 10,
+        "qty": 1,
+        "image": "/images/offers/offers (2).png",
+        "selections": [
+          {
+            "color": "زيتي",
+            "size": "S"
+          },
+          {
+            "color": "بيج",
+            "size": "S"
+          }
+        ]
+      },
+      {
+        "cartId": "offer__offer-4__1786448944270",
+        "isOffer": true,
+        "offerId": "offer-4",
+        "productId": null,
+        "name": "عرض الباراشوت",
+        "price": 4.4,
+        "qty": 1,
+        "image": "/images/offers/offers.png",
+        "selections": [
+          {
+            "color": "رمادي غامق",
+            "size": "M"
+          }
+        ]
+      },
+      {
+        "cartId": "offer__offer-2__1786449003303",
+        "isOffer": true,
+        "offerId": "offer-2",
+        "productId": null,
+        "name": "عرض كنزات البولو",
+        "price": 12,
+        "qty": 1,
+        "image": "/images/offers/offers (3).png",
+        "selections": [
+          {
+            "color": "زيتي",
+            "size": "XL"
+          },
+          {
+            "color": "رمادي غامق",
+            "size": "M"
+          },
+          {
+            "color": "قرميدي",
+            "size": "L"
+          }
+        ]
+      },
+      {
+        "cartId": "p014__أبيض__M",
+        "productId": "p014",
+        "name": "كنزة ماركة banemcanga",
+        "price": 14,
+        "color": "أبيض",
+        "size": "M",
+        "qty": 1,
+        "image": "/images/t-shirt/t-shirt1 (3).png"
+      }
+    ],
+    "total": 40.4
+  },
+  {
+    "id": "ord1786461791693",
+    "createdAt": "2026-08-11T15:23:11.693Z",
+    "customer": {
+      "name": "Jawad Abdine",
+      "phone": "ب",
+      "city": "waaf",
+      "address": "HERMEL",
+      "notes": ""
+    },
+    "items": [
+      {
+        "cartId": "offer__offer-3__1786461775588",
+        "isOffer": true,
+        "offerId": "offer-3",
+        "productId": null,
+        "name": "عرض اليوفو",
+        "price": 10,
+        "qty": 1,
+        "image": "/images/offers/offers (2).png",
+        "selections": [
+          {
+            "color": "زيتي",
+            "size": "35"
+          },
+          {
+            "color": "الأسود",
+            "size": "29"
+          }
+        ]
+      }
+    ],
+    "total": 10
+  },
+  {
+    "id": "ord1786462022993",
+    "createdAt": "2026-08-11T15:27:02.993Z",
+    "customer": {
+      "name": "Jawad Abdine",
+      "phone": "drew",
+      "city": "waaf",
+      "address": "HERMEL",
+      "notes": ""
+    },
+    "items": [
+      {
+        "cartId": "offer__offer-2__1786461916259",
+        "isOffer": true,
+        "offerId": "offer-2",
+        "productId": null,
+        "name": "عرض كنزات البولو",
+        "price": 12,
+        "qty": 1,
+        "image": "/images/offers/offers (3).png",
+        "selections": [
+          {
+            "color": "رمادي غامق",
+            "size": "L"
+          },
+          {
+            "color": "رمادي فاتح",
+            "size": "XL"
+          },
+          {
+            "color": "زيتي",
+            "size": "L"
+          }
+        ]
+      },
+      {
+        "cartId": "offer__offer-4__1786461924075",
+        "isOffer": true,
+        "offerId": "offer-4",
+        "productId": null,
+        "name": "عرض الباراشوت",
+        "price": 4.4,
+        "qty": 1,
+        "image": "/images/offers/offers.png",
+        "selections": [
+          {
+            "color": "رمادي غامق",
+            "size": "L"
+          }
+        ]
+      }
+    ],
+    "total": 16.4
+  }
+]

@@ -1,0 +1,148 @@
+<h2 class="sr-only" style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);">معاينة تصميم موقع Legend على الهاتف بأنواع شاشاته المختلفة: الرئيسية، الأقسام، الأنواع، المنتجات، تفاصيل المنتج، والسلة</h2>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Marcellus&family=El+Messiri:wght@500;600;700&family=Tajawal:wght@300;400;500;700;900&display=swap');
+.lg-wrap{direction:rtl;font-family:'Tajawal',sans-serif;display:flex;flex-direction:column;align-items:center;background:var(--surface-1);border-radius:12px;padding:2rem 1rem;}
+.lg-tabs{display:flex;flex-wrap:wrap;gap:6px;justify-content:center;margin-bottom:1.25rem;max-width:320px;}
+.lg-tab{border:0.5px solid var(--border-strong);border-radius:var(--radius);padding:6px 12px;font-size:12px;background:var(--surface-2);color:var(--text-secondary);cursor:pointer;}
+.lg-tab.active{background:#111111;color:#C9A227;border-color:#C9A227;}
+.lg-phone{width:300px;height:620px;background:#0B0B0A;border-radius:34px;border:8px solid #050505;box-shadow:0 0 0 1.5px rgba(201,162,39,.35);overflow:hidden;position:relative;}
+.lg-notch{position:absolute;top:0;left:50%;transform:translateX(-50%);width:110px;height:20px;background:#050505;border-radius:0 0 14px 14px;z-index:5;}
+.lg-screen{width:100%;height:100%;overflow-y:auto;color:#F6F1E7;}
+.lg-screen::-webkit-scrollbar{width:0;}
+</style>
+<div class="lg-wrap">
+  <div class="lg-tabs" id="lgTabs"></div>
+  <div class="lg-phone">
+    <div class="lg-notch"></div>
+    <div class="lg-screen" id="lgScreen"></div>
+  </div>
+</div>
+<script>
+const screens = {
+  home: `
+    <div style="position:relative;height:230px;background:linear-gradient(180deg,rgba(11,11,10,.25),#0B0B0A),url('https://picsum.photos/seed/legend-hero/500/500') center/cover;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;padding:18px 12px;text-align:center;">
+      <div style="font-family:'Marcellus',serif;font-size:34px;letter-spacing:.15em;">LEGEND</div>
+      <div style="font-family:'El Messiri',serif;color:#C9A227;font-size:13px;margin-top:4px;">أناقة لا تُنسى</div>
+      <button style="margin-top:12px;background:#C9A227;color:#0B0B0A;border:none;border-radius:2px;padding:8px 20px;font-size:11px;font-weight:700;">تسوّق الآن</button>
+    </div>
+    <div style="padding:16px 14px 24px;">
+      <div style="font-size:10px;letter-spacing:.25em;color:#C9A227;margin-bottom:4px;">تسوّق حسب القسم</div>
+      <div style="font-family:'El Messiri',serif;font-size:18px;margin-bottom:10px;">الأقسام</div>
+      <div style="display:flex;flex-direction:column;gap:10px;">
+        ${['sweaters','pants','shoes'].map((s,i)=>`
+        <div style="position:relative;height:90px;border-radius:2px;overflow:hidden;border:1px solid rgba(201,162,39,.25);background:url('https://picsum.photos/seed/legend-cat-${s}/400/200') center/cover;">
+          <div style="position:absolute;inset:0;background:linear-gradient(0deg,rgba(0,0,0,.7),transparent 60%);display:flex;align-items:flex-end;padding:10px;">
+            <span style="font-family:'El Messiri',serif;font-size:15px;font-weight:600;">${['الكنزات','البناطيل','الأحذية'][i]}</span>
+          </div>
+        </div>`).join('')}
+      </div>
+    </div>`,
+  categories: `
+    <div style="padding:18px 14px;">
+      <div style="font-size:11px;color:#9A9488;margin-bottom:14px;">الرئيسية</div>
+      <div style="font-size:10px;letter-spacing:.25em;color:#C9A227;margin-bottom:4px;">تسوّق</div>
+      <div style="font-family:'El Messiri',serif;font-size:20px;margin-bottom:12px;">كل الأقسام</div>
+      <div style="display:flex;flex-direction:column;gap:12px;">
+        ${['sweaters','pants','shoes'].map((s,i)=>`
+        <div style="position:relative;height:120px;border-radius:2px;overflow:hidden;border:1px solid rgba(201,162,39,.25);background:url('https://picsum.photos/seed/legend-cat-${s}/500/260') center/cover;">
+          <div style="position:absolute;inset:0;background:linear-gradient(0deg,rgba(0,0,0,.75),transparent 55%);display:flex;flex-direction:column;justify-content:flex-end;padding:12px;">
+            <span style="font-family:'El Messiri',serif;font-size:18px;font-weight:600;">${['الكنزات','البناطيل','الأحذية'][i]}</span>
+            <span style="font-size:10px;color:#C9A227;letter-spacing:.15em;margin-top:3px;">اكتشف المجموعة ←</span>
+          </div>
+        </div>`).join('')}
+      </div>
+    </div>`,
+  types: `
+    <div style="padding:18px 14px;">
+      <div style="font-size:11px;color:#9A9488;margin-bottom:14px;">الرئيسية / الكنزات</div>
+      <div style="font-size:10px;letter-spacing:.25em;color:#C9A227;margin-bottom:4px;">الكنزات</div>
+      <div style="font-family:'El Messiri',serif;font-size:20px;margin-bottom:12px;">اختر النوع</div>
+      <div style="display:flex;flex-direction:column;gap:12px;">
+        ${['أوفر سايز','بولو','هودي'].map((n,i)=>`
+        <div style="position:relative;height:110px;border-radius:2px;overflow:hidden;border:1px solid rgba(201,162,39,.25);background:url('https://picsum.photos/seed/legend-type-${i}/500/260') center/cover;">
+          <div style="position:absolute;inset:0;background:linear-gradient(0deg,rgba(0,0,0,.75),transparent 55%);display:flex;align-items:flex-end;padding:12px;">
+            <span style="font-family:'El Messiri',serif;font-size:16px;font-weight:600;">${n}</span>
+          </div>
+        </div>`).join('')}
+      </div>
+    </div>`,
+  products: `
+    <div style="padding:18px 14px;">
+      <div style="font-size:11px;color:#9A9488;margin-bottom:14px;">الرئيسية / الكنزات / أوفر سايز</div>
+      <div style="font-family:'El Messiri',serif;font-size:18px;margin-bottom:12px;">أوفر سايز</div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;">
+        ${[1,2,3,4].map(i=>`
+        <div style="border:1px solid rgba(201,162,39,.25);border-radius:2px;overflow:hidden;background:#151412;">
+          <div style="aspect-ratio:4/5;background:url('https://picsum.photos/seed/legend-p${i}/220/280') center/cover;"></div>
+          <div style="padding:8px;">
+            <div style="font-family:'El Messiri',serif;font-size:11px;margin-bottom:4px;">كنزة أوفر سايز</div>
+            <div style="color:#C9A227;font-family:'Marcellus',serif;font-size:12px;">$39</div>
+            <div style="display:flex;gap:4px;margin-top:6px;">
+              <span style="width:9px;height:9px;border-radius:50%;background:#111;border:1px solid rgba(255,255,255,.3);"></span>
+              <span style="width:9px;height:9px;border-radius:50%;background:#C9A227;"></span>
+            </div>
+          </div>
+        </div>`).join('')}
+      </div>
+    </div>`,
+  detail: `
+    <div style="aspect-ratio:4/5;background:url('https://picsum.photos/seed/legend-p1/500/620') center/cover;position:relative;">
+      <div style="position:absolute;top:10px;right:10px;width:26px;height:26px;border-radius:50%;background:rgba(11,11,10,.6);display:flex;align-items:center;justify-content:center;font-size:14px;">×</div>
+    </div>
+    <div style="padding:16px;">
+      <div style="font-family:'El Messiri',serif;font-size:19px;font-weight:600;">كنزة أوفر سايز فاخرة</div>
+      <div style="color:#C9A227;font-family:'Marcellus',serif;font-size:16px;margin:6px 0 12px;">$39</div>
+      <div style="font-size:10px;letter-spacing:.15em;color:#9A9488;margin-bottom:8px;">اللون: أسود</div>
+      <div style="display:flex;gap:8px;margin-bottom:14px;">
+        <span style="width:24px;height:24px;border-radius:50%;background:#111;border:2px solid #C9A227;"></span>
+        <span style="width:24px;height:24px;border-radius:50%;background:#F5F5F0;box-shadow:0 0 0 1px rgba(255,255,255,.3) inset;"></span>
+        <span style="width:24px;height:24px;border-radius:50%;background:#8C8C8C;box-shadow:0 0 0 1px rgba(255,255,255,.3) inset;"></span>
+      </div>
+      <div style="font-size:10px;letter-spacing:.15em;color:#9A9488;margin-bottom:8px;">المقاس</div>
+      <div style="display:flex;gap:6px;margin-bottom:16px;">
+        ${['S','M','L','XL'].map((s,i)=>`<span style="min-width:30px;text-align:center;padding:6px 4px;font-size:11px;border-radius:2px;${i===1?'background:#C9A227;color:#0B0B0A;font-weight:700;':'border:1px solid rgba(201,162,39,.3);'}">${s}</span>`).join('')}
+      </div>
+      <button style="width:100%;background:#C9A227;color:#0B0B0A;border:none;border-radius:2px;padding:12px;font-size:12px;font-weight:700;">إضافة إلى السلة</button>
+    </div>`,
+  cart: `
+    <div style="padding:16px;">
+      <div style="font-family:'El Messiri',serif;font-size:18px;margin-bottom:14px;border-bottom:1px solid rgba(201,162,39,.25);padding-bottom:12px;">سلة الطلبات</div>
+      ${[1,2].map(i=>`
+      <div style="display:flex;gap:10px;border-bottom:1px solid rgba(201,162,39,.2);padding-bottom:12px;margin-bottom:12px;">
+        <div style="width:52px;height:64px;border-radius:2px;background:url('https://picsum.photos/seed/legend-cart${i}/120/150') center/cover;"></div>
+        <div style="flex:1;">
+          <div style="font-family:'El Messiri',serif;font-size:12px;margin-bottom:3px;">كنزة أوفر سايز</div>
+          <div style="font-size:10px;color:#9A9488;margin-bottom:6px;">اللون: أسود · المقاس: M</div>
+          <div style="display:flex;justify-content:space-between;align-items:center;">
+            <div style="display:flex;align-items:center;gap:6px;font-size:11px;">
+              <span style="width:18px;height:18px;border:1px solid rgba(201,162,39,.3);border-radius:50%;text-align:center;line-height:16px;">−</span>
+              <span>1</span>
+              <span style="width:18px;height:18px;border:1px solid rgba(201,162,39,.3);border-radius:50%;text-align:center;line-height:16px;">+</span>
+            </div>
+            <span style="color:#C9A227;font-family:'Marcellus',serif;font-size:12px;">$39</span>
+          </div>
+        </div>
+      </div>`).join('')}
+      <div style="display:flex;justify-content:space-between;margin:16px 0;font-size:13px;">
+        <span>المجموع</span><span style="color:#C9A227;font-family:'Marcellus',serif;font-size:16px;">$78</span>
+      </div>
+      <button style="width:100%;background:#C9A227;color:#0B0B0A;border:none;border-radius:2px;padding:12px;font-size:12px;font-weight:700;">إتمام الطلب عبر واتساب</button>
+    </div>`
+};
+const labels = {home:'الرئيسية',categories:'الأقسام',types:'الأنواع',products:'المنتجات',detail:'تفاصيل المنتج',cart:'السلة'};
+const tabsEl = document.getElementById('lgTabs');
+const screenEl = document.getElementById('lgScreen');
+Object.keys(labels).forEach(key=>{
+  const b = document.createElement('button');
+  b.className = 'lg-tab' + (key==='home' ? ' active' : '');
+  b.textContent = labels[key];
+  b.onclick = () => {
+    document.querySelectorAll('.lg-tab').forEach(t=>t.classList.remove('active'));
+    b.classList.add('active');
+    screenEl.innerHTML = screens[key];
+    screenEl.scrollTop = 0;
+  };
+  tabsEl.appendChild(b);
+});
+screenEl.innerHTML = screens.home;
+</script>

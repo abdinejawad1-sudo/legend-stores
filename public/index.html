@@ -1,0 +1,222 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Legend | ليجند</title>
+<meta name="description" content="Legend — متجر ملابس فاخر. كنزات، بناطيل، وأحذية بجودة عالية.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Marcellus&family=El+Messiri:wght@400;500;600;700&family=Tajawal:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+<div class="noise-overlay" aria-hidden="true"></div>
+
+<!-- ===== Top bar ===== -->
+ 
+<header class="topbar" id="topbar">
+
+  <div class="left-actions">
+
+    <button class="icon-btn menu-btn" id="menuBtn" aria-label="القائمة">
+      <span></span><span></span><span></span>
+    </button>
+
+    <button class="icon-btn back-btn" onclick="history.back()" aria-label="رجوع">
+      &#10094;
+    </button>
+
+  </div>
+
+  <a href="#/" class="wordmark" id="logoLink">
+    LEGEND<span class="wordmark-ar">MEN's WEAR</span>
+  </a>
+
+  <button class="icon-btn cart-btn" id="cartBtn" aria-label="السلة">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.4">
+    <path d="M4 7h16l-1.5 11.5a2 2 0 0 1-2 1.5H7.5a2 2 0 0 1-2-1.5L4 7Z"/>
+    <path d="M8 7a4 4 0 1 1 8 0"/>
+  </svg>
+  <span class="cart-badge" id="cartBadge">0</span>
+</button>
+
+</header>
+
+<!-- ===== Slide-in nav ===== -->
+<nav class="side-nav" id="sideNav">
+  <button class="icon-btn close-btn" id="closeNav" aria-label="إغلاق">&times;</button>
+  <ul id="sideNavList" class="side-nav-list"></ul>
+  <div class="side-nav-footer">
+    <p id="aboutText"></p>
+  </div>
+</nav>
+<div class="scrim" id="scrim"></div>
+
+<!-- ===== Main app root ===== -->
+<main id="app"></main>
+<!-- ===== Contact Us Page ===== -->
+<section id="contact-page" class="section contact-section" style="display:none; padding:48px 20px 80px;">
+  <span class="eyebrow">✦ تواصل</span>
+  <h1 class="section-title">نحن هنا لخدمتك</h1>
+  <div class="stitch in-view" style="--w:0%;"></div>
+  <p style="color:var(--grey);max-width:560px;margin-bottom:44px;line-height:1.9;font-size:15px;">
+    يسعدنا سماع رأيك أو الرد على استفساراتك. تواصل معنا بأي وقت وسنرد عليك بأسرع وقت.
+  </p>
+
+  <div class="contact-grid">
+    <!-- نموذج التواصل -->
+    <div class="contact-card">
+      <form id="contactForm" class="contact-form">
+        <div class="form-group">
+          <label for="contactName">الاسم الكامل</label>
+          <input type="text" id="contactName" name="name" placeholder="مثال: محمد الأمين" required>
+        </div>
+        <div class="form-group">
+          <label for="contactEmail">البريد الإلكتروني</label>
+          <input type="email" id="contactEmail" name="email" placeholder="example@mail.com" required>
+        </div>
+        <div class="form-group">
+          <label for="contactPhone">رقم الهاتف (اختياري)</label>
+          <input type="tel" id="contactPhone" name="phone" placeholder="70 123 456">
+        </div>
+        <div class="form-group">
+          <label for="contactSubject">الموضوع</label>
+          <input type="text" id="contactSubject" name="subject" placeholder="موضوع رسالتك">
+        </div>
+        <div class="form-group">
+          <label for="contactMessage">الرسالة</label>
+          <textarea id="contactMessage" name="message" rows="5" placeholder="اكتب رسالتك هنا..." required></textarea>
+        </div>
+        <button type="submit" class="btn btn-gold btn-block">إرسال الرسالة</button>
+      </form>
+    </div>
+
+    <!-- معلومات الاتصال -->
+    <div class="contact-card contact-info">
+      <h3 style="font-family:var(--font-ar-head);font-size:20px;font-weight:600;margin:0 0 24px;color:var(--gold);">
+        معلومات التواصل
+      </h3>
+      
+      <div class="contact-item">
+        <span class="contact-icon">📍</span>
+        <div>
+          <strong>العنوان</strong>
+          <p>الهرمل- سوق الضيعة-مقابل قبر صيري بيك</p>
+        </div>
+      </div>
+      
+      <div class="contact-item">
+        <span class="contact-icon">📞</span>
+        <div>
+          <strong>الهاتف</strong>
+          <p>+961 78 947 818</p>
+        </div>
+      </div>
+      
+      <div class="contact-item">
+        <span class="contact-icon">📧</span>
+        <div>
+          <strong>البريد الإلكتروني</strong>
+          <p>info@legend-store.com</p>
+        </div>
+      </div>
+      
+      <div class="contact-item">
+        <span class="contact-icon">🕐</span>
+        <div>
+          <strong>ساعات العمل</strong>
+          <p>الاثنين - السبت: ١٠ ص - ١٠ م</p>
+          <p style="margin-top:2px;color:var(--grey);">الأحد: مغلق</p>
+        </div>
+      </div>
+
+      <div style="margin-top:32px;padding-top:24px;border-top:1px solid var(--line);">
+        <p style="font-family:var(--font-ar-head);color:var(--gold);font-size:14px;margin:0 0 14px;text-align:center;">
+          تابعنا على وسائل التواصل
+        </p>
+        <div class="social-links">
+          <a href="#" aria-label="إنستغرام" style="display:inline-block;padding:8px 14px;border:1px solid var(--line);border-radius:4px;transition:all .3s var(--ease);">
+            📷 إنستغرام
+          </a>
+          <a href="#" aria-label="فيسبوك" style="display:inline-block;padding:8px 14px;border:1px solid var(--line);border-radius:4px;transition:all .3s var(--ease);">
+            👍 فيسبوك
+          </a>
+          <a href="#" aria-label="واتساب" style="display:inline-block;padding:8px 14px;border:1px solid var(--line);border-radius:4px;transition:all .3s var(--ease);">
+            💬 واتساب
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<footer class="site-footer">
+
+  <div class="footer-mark">LEGEND</div>
+  <p class="footer-line">أناقة لا تنتهي</p>
+ 
+  <p class="footer-copy">&copy; <span id="year"></span> Legend. جميع الحقوق محفوظة.</p>
+   <p class="footer-copy"> <span id="year"></span>Designed & Developed by</p>
+    <p class="footer-copy"> <span id="year"></span> Jawad Abdine </p>
+   
+  
+</footer>
+
+<!-- ===== Cart drawer ===== -->
+<aside class="cart-drawer" id="cartDrawer">
+  <div class="cart-header">
+    <h2>سلة الطلبات</h2>
+    <button class="icon-btn close-btn" id="closeCart" aria-label="إغلاق السلة">&times;</button>
+  </div>
+  <div class="cart-items" id="cartItems"></div>
+  <div class="cart-footer">
+    <div class="cart-total-row">
+      <span>المجموع</span>
+      <span id="cartTotal">$0</span>
+    </div>
+    <button class="btn btn-gold btn-block" id="checkoutBtn" disabled>إتمام الطلب عبر واتساب</button>
+  </div>
+</aside>
+<div class="scrim" id="cartScrim"></div>
+
+<!-- ===== Product modal ===== -->
+<div class="modal-scrim" id="productModalScrim">
+  <div class="product-modal" id="productModal"></div>
+</div>
+
+<!-- ===== Checkout modal ===== -->
+<div class="modal-scrim" id="checkoutModalScrim">
+  <div class="checkout-modal">
+    <button class="icon-btn close-btn" id="closeCheckout" aria-label="إغلاق">&times;</button>
+    <h2 class="section-title-sm">بيانات التوصيل</h2>
+    <p class="checkout-sub">عبّي بياناتك وسنراسلك عبر واتساب لتأكيد الطلب.</p>
+    <form id="checkoutForm" class="checkout-form">
+      <label>الاسم الكامل
+        <input type="text" name="name" required placeholder="مثال: محمد الأمين">
+      </label>
+      <label>رقم الهاتف
+        <input type="tel" name="phone" required placeholder="مثال: 70 123 456">
+      </label>
+      <label>المدينة / المنطقة
+        <input type="text" name="city" required placeholder="مثال: بيروت">
+      </label>
+      <label>العنوان بالتفصيل
+        <textarea name="address" required rows="3" placeholder="اسم الشارع، رقم المبنى، أقرب معلم..."></textarea>
+      </label>
+      <label>ملاحظات إضافية (اختياري)
+        <textarea name="notes" rows="2" placeholder="أي تفاصيل إضافية عن طلبك"></textarea>
+      </label>
+      <button type="submit" class="btn btn-gold btn-block">إرسال الطلب عبر واتساب</button>
+    </form>
+  </div>
+</div>
+
+<template id="toastTemplate">
+  <div class="toast"><span></span></div>
+</template>
+
+<script src="/js/app.js"></script>
+</body>
+</html>

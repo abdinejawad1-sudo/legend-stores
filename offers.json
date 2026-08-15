@@ -1,0 +1,152 @@
+[
+  {
+    "id": "offer-1",
+    "name": "عرض كنزات الرياضة",
+    "description": "أختر أي 5 كنزات رياضة فقط ب12$",
+    "price": 12,
+    "quantity": 5,
+    "image": "/images/offers/offers (1).png",
+    "active": true,
+
+    "colors": [
+      {
+        "name": "أبيض",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "أسود",
+        "hex": "#000000"
+      },
+      {
+        "name": "برتقالي",
+        "hex": "#ff9100"
+      },
+      {
+        "name": "بيبي بلو",
+        "hex": "#bbdefb"
+      },
+      {
+        "name": "أزرق غامق",
+        "hex": "#283593"
+      },
+      {
+        "name": "أخضر",
+        "hex": "#00c853"
+      },
+      {
+        "name": "رمادي فاتح",
+        "hex": "#cfd8dc"
+      },
+      {
+        "name": "فوسفوري",
+        "hex": "#b2ff59"
+      },
+      {
+        "name": "بيج",
+        "hex": "#fff3e0"
+      }
+    ],
+
+    "sizes": ["S", "M", "L", "XL", "XXL"]
+  },
+   {
+    "id": "offer-2",
+    "name": "عرض كنزات البولو",
+    "description": "أختر أي 3 كنزات بولو فقط ب12$",
+    "price": 12,
+    "quantity": 3,
+    "image": "/images/offers/offers (3).png",
+    "active": true,
+
+    "colors": [
+      {
+        "name": "رمادي غامق",
+        "hex": "#757575"
+      },
+      {
+        "name": "رمادي فاتح",
+        "hex": "#b0bec5"
+      },
+      {
+        "name": "أكوا",
+        "hex": "#c8e6c9"
+      },
+      {
+        "name": "زيتي",
+        "hex": "#c0ca33"
+      },
+      {
+        "name": "بني",
+        "hex": "#ffe082"
+      },
+      {
+        "name": "كحلي",
+        "hex": "#3f51b5"
+      },
+       {
+        "name": "قرميدي",
+        "hex": "#ff9800"
+      },
+      {
+        "name": "أسود",
+        "hex": "#000000"
+      }
+    ],
+
+    "sizes": [ "L", "XL", "XXL","3XL"]
+  },
+  {
+    "id": "offer-3",
+    "name": "عرض اليوفو",
+    "description": "أختر اي 2 يوفو فقط ب10$",
+    "price": 10,
+    "quantity": 2,
+    "image": "/images/offers/offers (2).png",
+    "active": true,
+
+    "colors": [
+      {
+        "name": "الأسود",
+        "hex": "#000000"
+      },
+      {
+        "name": "بيج",
+        "hex": "#ffecb3"
+      },
+      {
+        "name": "زيتي",
+        "hex": "#33691e"
+      }
+   
+    ],
+
+    "sizes": ["29", "30", "31", "32", "33","34", "35", "36", "37", "38","39","40"]
+  },
+   {
+    "id": "offer-4",
+    "name": "عرض الباراشوت",
+    "description": "اختر اي باراشوت فقط ب400ألف",
+    "price": 4.4,
+    "quantity": 1,
+    "image": "/images/offers/offers.png",
+    "active": true,
+
+    "colors": [
+      {
+        "name": "أسود",
+        "hex": "#000000"
+      },
+      {
+        "name": "رمادي غامق",
+        "hex": "#607d8b"
+      },
+      {
+        "name": "رمادي فاتح",
+        "hex": "#cfd8dc"
+      }
+      
+    ],
+
+    "sizes": ["M","L", "XL", "XXL","3XL","4XL","5XL"]
+  }
+]

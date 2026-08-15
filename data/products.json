@@ -1,0 +1,2147 @@
+[
+  {
+    "id": "p001",
+    "typeId": "sweaters-oversized",
+    "categoryId": "sweaters",
+    "name": "كنزة أوفر سايز",
+    "description": "قطعة مريحة بخامة عالية الجودة تمنحك إطلالة أنيقة في كل المناسبات.",
+    "price": 5,
+    "currency": "USD",
+    "sizes": [
+      
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      {
+        "name": "بني ",
+        "hex": "#E5B563",
+        "image": "images/oversiz/oversiz (9).png"
+      },
+      {
+        "name": "رمادي",
+        "hex": "#A39D9A",
+        "image": "images/oversiz/oversiz (15).png"
+      },
+      {
+        "name": "سماوي",
+        "hex": "#5ABCBC",
+        "image": "images/oversiz/oversiz (13).png"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": "p002",
+    "typeId": "sweaters-oversized",
+    "categoryId": "sweaters",
+    "name": "كنزة أوفر سايز سادة",
+    "description": "قطعة مريحة بخامة عالية الجودة تمنحك إطلالة أنيقة في كل المناسبات.",
+    "price": 5,
+    "currency": "USD",
+    "sizes": [
+      
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      {
+        "name": "سماوي",
+        "hex": "#87CEEB",
+        "image": "images/oversiz/oversiz (3).png"
+      },
+      {
+        "name": "كحلي",
+        "hex": "#1B2A4A",
+        "image": "images/oversiz/oversiz (11).png"
+      }
+    
+    ],
+    "featured": false
+  },
+  {
+    "id": "p003",
+    "typeId": "sweaters-oversized",
+    "categoryId": "sweaters",
+    "name": "كنزة أوفر سايز لونين",
+    "description": "قطعة مريحة بخامة عالية الجودة تمنحك إطلالة أنيقة في كل المناسبات.",
+    "price": 7,
+    "currency": "USD",
+    "sizes": [
+      
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      {
+        "name": "زيتي",
+        "hex": "#BAD0BA",
+        "image": "images/oversiz/oversiz (14).png"
+      },
+      {
+        "name": "ابيض",
+        "hex": "#E3E3E3",
+        "image": "images/oversiz/oversiz (12).png"
+      },
+      {
+        "name": "اسود",
+        "hex": "#322D2D",
+        "image": "images/oversiz/oversiz (6).png"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "p004",
+    "typeId": "sweaters-oversized",
+    "categoryId": "sweaters",
+    "name": "كنزة أوفر سايز VL  ",
+    "description": "قطعة مريحة بخامة عالية الجودة تمنحك إطلالة أنيقة في كل المناسبات.",
+    "price": 7,
+    "currency": "USD",
+    "sizes": [
+     
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      {
+        "name": "أبيض",
+        "hex": "#F5F5F0",
+        "image": "images/oversiz/oversiz (18).png"
+      },
+      {
+        "name": "فانيلي",
+        "hex": "#EAC4C4",
+        "image": "images/oversiz/oversiz (16).png"
+      },
+       {
+        "name": "أسود",
+        "hex": "#302E2E",
+        "image": "images/oversiz/oversiz (17).png"
+      },
+       {
+        "name": "زيتي",
+        "hex": "#2D472D",
+        "image": "images/oversiz/oversiz (2).png"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "p005",
+    "typeId": "sweaters-oversized",
+    "categoryId": "sweaters",
+    "name": "كنزة أوفر سايز facility",
+    "description": "قطعة مريحة بخامة عالية الجودة تمنحك إطلالة أنيقة في كل المناسبات.",
+    "price": 7,
+    "currency": "USD",
+    "sizes": [
+   
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      {
+        "name": "أبيض",
+        "hex": "#FFFFFF",
+        "image": "/images/oversiz/oversiz (24).png"
+      },
+      {
+        "name": "زيتي",
+        "hex": "#33691e",
+        "image": "/images/oversiz/oversiz (23).png"
+      },
+      {
+        "name": "سكري",
+        "hex": "#f0f4c3",
+        "image": "/images/oversiz/oversiz (20).png"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "p006",
+    "typeId": "sweaters-oversized",
+    "categoryId": "sweaters",
+    "name": "كنزة أوفر سايز مموهة",
+    "description": "قطعة مريحة بخامة عالية الجودة تمنحك إطلالة أنيقة في كل المناسبات.",
+    "price": 7,
+    "currency": "USD",
+    "sizes": [
+    
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      {
+        "name": "nike",
+        "hex": "#000000",
+        "image": "/images/oversiz/oversiz (19).png"
+      },
+      {
+        "name": "Hermes",
+        "hex": "#78909c",
+        "image": "/images/oversiz/oversiz (21).png"
+      },
+       {
+        "name": "clouasednub",
+        "hex": "#000000",
+        "image": "/images/oversiz/oversiz (22).png"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "p007",
+    "typeId": "sweaters-polo",
+    "categoryId": "sweaters",
+    "name": "كنزة بولو كلاسيك",
+    "description": "قطعة مريحة بخامة عالية الجودة تمنحك إطلالة أنيقة في كل المناسبات.",
+    "price": 7,
+    "currency": "USD",
+    "sizes": [
+      
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      {
+        "name": "خوخي",
+        "hex": "#F19175",
+        "image": "/images/polo/polo (4).png"
+      },
+      {
+        "name": "برتقالي مريخ",
+        "hex": "#E05304",
+        "image": "/images/polo/polo (5).png"
+      },
+      {
+        "name": "زيتي",
+        "hex": "#33691e",
+        "image": "/images/polo/polo.png"
+      },
+       {
+        "name": "كحلي",
+        "hex": "#011E57",
+        "image": "/images/polo/polo (7).png"
+      },
+       {
+        "name": "أكوا",
+        "hex": "#1de9b6",
+        "image": "/images/polo/polo (8).png"
+      }
+      
+    ],
+    "featured": true
+  },
+  {
+    "id": "p008",
+    "typeId": "sweaters-polo",
+    "categoryId": "sweaters",
+    "name": "كنزة بولو مخطط",
+    "description": "قطعة مريحة بخامة عالية الجودة تمنحك إطلالة أنيقة في كل المناسبات.",
+    "price": 8,
+    "currency": "USD",
+    "sizes": [
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      {
+        "name": "أبيض",
+        "hex": "#FFFFFF",
+        "image": "/images/polo/polom (2).png"
+      },
+      {
+        "name": "بني",
+        "hex": "#5B3A29",
+        "image": "/images/polo/polom.png"
+      },
+      {
+        "name": "جردوني",
+        "hex": "#9e9e9e",
+        "image": "/images/polo/polom (3).png"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "p009",
+    "typeId": "sweaters-polo",
+    "categoryId": "sweaters",
+    "name": "كنزة بولو ماركة",
+    "description": "قطعة مريحة بخامة عالية الجودة تمنحك إطلالة أنيقة في كل المناسبات.",
+    "price": 10,
+    "currency": "USD",
+    "sizes": [
+      
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      {
+        "name": "أبيض",
+        "hex": "#F5F5F0",
+        "image": "/images/polo/polob (5).png"
+      },
+      {
+        "name": "أسود",
+        "hex": "#000000",
+        "image": "/images/polo/polob.png"
+      },
+      {
+        "name": "جردوني",
+        "hex": "#78909c",
+        "image": "/images/polo/polob (3).png"
+      },
+       {
+        "name": "رمادي",
+        "hex": "#cfd8dc",
+        "image": "/images/polo/polob (2).png"
+      }
+      
+    ],
+    "featured": false
+  },
+
+  {
+    "id": "p013",
+    "typeId": "sweaters-hoodie",
+    "categoryId": "sweaters",
+    "name": "كنزة شعار بولو",
+    "description": "قطعة مريحة بخامة عالية الجودة تمنحك إطلالة أنيقة في كل المناسبات.",
+    "price": 7,
+    "currency": "USD",
+    "sizes": [
+      
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      {
+        "name": "أبيض",
+        "hex": "#FFFFFF",
+        "image": "/images/t-shirt/t-shirt (5).png"
+      },
+      {
+        "name": "بوردو",
+        "hex": "#dd2c00",
+        "image": "/images/t-shirt/t-shirt (4).png"
+      },
+      {
+        "name": "جردوني",
+        "hex": "#607d8b",
+        "image": "/images/t-shirt/t-shirt (2).png"
+      },
+      {
+        "name": "أسود",
+        "hex": "#000000",
+        "image": "/images/t-shirt/t-shirt (6).png"
+      }
+
+    ],
+    "featured": true
+  },
+  {
+    "id": "p014",
+    "typeId": "sweaters-hoodie",
+    "categoryId": "sweaters",
+    "name": "كنزة ماركة banemcanga",
+    "description": "قطعة مريحة بخامة عالية الجودة تمنحك إطلالة أنيقة في كل المناسبات.",
+    "price": 14,
+    "currency": "USD",
+    "sizes": [
+      
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      {
+        "name": "أبيض",
+        "hex": "#F5F5F0",
+        "image": "/images/t-shirt/t-shirt1 (3).png"
+      },
+      {
+        "name": "أسود",
+        "hex": "#000000",
+        "image": "/images/t-shirt/t-shirt1 (10).png"
+      }
+      
+    ],
+    "featured": false
+  },
+  {
+    "id": "p015",
+    "typeId": "sweaters-hoodie",
+    "categoryId": "sweaters",
+    "name": "كنزة alo",
+    "description": "قطعة مريحة بخامة عالية الجودة تمنحك إطلالة أنيقة في كل المناسبات.",
+    "price": 9,
+    "currency": "USD",
+    "sizes": [
+      
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      {
+        "name": "أسود",
+        "hex": "#111111",
+        "image": "/images/t-shirt/t-shirt1 (1).png"
+      },
+      {
+        "name": "أكوا",
+        "hex": "#c8e6c9",
+        "image": "/images/t-shirt/t-shirt1 (7).png"
+      },
+      {
+        "name": "بيج",
+        "hex": "#ffe0b2",
+        "image": "/images/t-shirt/t-shirt1 (14).png"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "p016",
+    "typeId": "sweaters-hoodie",
+    "categoryId": "sweaters",
+    "name": "كنزة AP",
+    "description": "قطعة مريحة بخامة عالية الجودة تمنحك إطلالة أنيقة في كل المناسبات.",
+    "price": 9,
+    "currency": "USD",
+    "sizes": [
+  
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      {
+        "name": "أبيض",
+        "hex": "#FFFFFF",
+        "image": "/images/t-shirt/t-shirt1 (2).png"
+      },
+      {
+        "name": "أسود",
+        "hex": "#5B3A29",
+        "image": "/images/t-shirt/t-shirt1 (12).png"
+      },
+      {
+        "name": "رمادي",
+        "hex": "#e0e0e0",
+        "image": "/images/t-shirt/t-shirt1 (4).png"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "p017",
+    "typeId": "sweaters-hoodie",
+    "categoryId": "sweaters",
+    "name": "كنزة PRADA",
+    "description": "قطعة مريحة بخامة عالية الجودة تمنحك إطلالة أنيقة في كل المناسبات.",
+    "price": 13,
+    "currency": "USD",
+    "sizes": [
+   
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      {
+        "name": "أبيض",
+        "hex": "#F5F5F0",
+        "image": "/images/t-shirt/t-shirt1 (11).png"
+      },
+      {
+        "name": "أسود",
+        "hex": "#000000",
+        "image": "/images/t-shirt/t-shirt1 (5).png"
+      }
+    ],
+    "featured": false
+  },
+   {
+    "id": "p011004",
+    "typeId": "sweaters-hoodie",
+    "categoryId": "sweaters",
+    "name": "كنزة سادة",
+    "description": "قطعة مريحة بخامة عالية الجودة تمنحك إطلالة أنيقة في كل المناسبات.",
+    "price": 5,
+    "currency": "USD",
+    "sizes": [
+   
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      {
+        "name": "أبيض",
+        "hex": "#F5F5F0",
+        "image": "/images/t-shirt/t-shirt1 (13).png"
+      },
+      {
+        "name": "أسود",
+        "hex": "#000000",
+        "image": "/images/t-shirt/t-shirt1 (9).png"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "p0100",
+    "typeId": "chemise",
+    "categoryId": "sweaters",
+    "name": "قميص سادة",
+    "description": "قطعة مريحة بخامة عالية الجودة تمنحك إطلالة أنيقة في كل المناسبات.",
+    "price": 11,
+    "currency": "USD",
+    "sizes": [
+     
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      {
+        "name": "أسود",
+        "hex": "#000000",
+        "image": "/images/chemise/amys (1).png"
+      },
+      {
+        "name": "بيج",
+        "hex": "#ffecb3",
+        "image": "/images/chemise/amys (2).png"
+      },
+      {
+        "name": "جردوني",
+        "hex": "#90a4ae",
+        "image": "/images/chemise/amys (3).png"
+      },
+       {
+        "name": "فانيلي",
+        "hex": "#f1f8e9",
+        "image": "/images/chemise/amys (4).png"
+      },
+       {
+        "name": "توتي",
+        "hex": "#ffebee",
+        "image": "/images/chemise/amys (5).png"
+      },
+       {
+        "name": "سماوي فاتح",
+        "hex": "#bbdefb",
+        "image": "/images/chemise/amys (7).png"
+      },
+       {
+        "name": "أبيض",
+        "hex": "#FFFFFF",
+        "image": "/images/chemise/amys (9).png"
+      },
+       {
+        "name": "رمادي",
+        "hex": "#b0bec5",
+        "image": "/images/chemise/amys.png"
+      }
+      
+    ],
+    "featured": false
+  },
+   {
+    "id": "p01001",
+    "typeId": "chemise",
+    "categoryId": "sweaters",
+    "name": "قميص مخطط",
+    "description": "قطعة مريحة بخامة عالية الجودة تمنحك إطلالة أنيقة في كل المناسبات.",
+    "price": 11,
+    "currency": "USD",
+    "sizes": [
+      
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      {
+        "name": "أسود",
+        "hex": "#000000",
+        "image": "/images/chemise/amys (6).png"
+      },
+      {
+        "name": "رمادي",
+        "hex": "#e0e0e0",
+        "image": "/images/chemise/amys (8).png"
+      }
+    ],
+    "featured": false
+  },
+  
+    {
+    "id": "p01002",
+    "typeId": "set",
+    "categoryId": "sweaters",
+    "name": "سيت كامل",
+    "description": "قطعة مريحة بخامة عالية الجودة تمنحك إطلالة أنيقة في كل المناسبات.",
+    "price": 12,
+    "currency": "USD",
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      {
+        "name": "أسود",
+        "hex": "#000000",
+        "image": "/images/set/set.png"
+      },
+      {
+        "name": "بيج",
+        "hex": "#ffcc80",
+        "image": "/images/set/set (2).png"
+      },
+      {
+        "name": "رمادي",
+        "hex": "#cfd8dc",
+        "image": "/images/set/set (3).png"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "p019",
+    "typeId": "pants-sport",
+    "categoryId": "pants",
+    "name": "تركي أجر ضيقة",
+    "description": "قصة عصرية وخامة متينة توفر راحة كاملة طوال اليوم.",
+    "price": 10,
+    "currency": "USD",
+    "sizes": [
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38"
+  
+
+    ],
+    "colors": [
+      {
+        "name": "رمادي",
+        "hex": "#f5f5f5",
+        "image": "images/pants/trke ejr dy2a/pant (1).png"
+      },
+       {
+        "name": "كحلي غامق",
+        "hex": "#090A2C",
+        "image": "images/pants/trke ejr dy2a/pant (2).png"
+      },
+       {
+        "name": "2رمادي غامق",
+        "hex": "#90a4ae",
+        "image": "images/pants/trke ejr dy2a/pant (3).png"
+      },
+       {
+        "name": "كحلي فاتح",
+        "hex": "#536dfe",
+        "image": "images/pants/trke ejr dy2a/pant (4).png"
+      },
+      {
+        "name": "رمادي",
+        "hex": "#f5f5f5",
+        "image": "images/pants/trke ejr dy2a/pant (7).png"
+      },
+    
+        {
+        "name": "كحلي2",
+        "hex": "#090A2C",
+        "image": "images/pants/trke ejr dy2a/pant (11).png"
+      },
+       
+        {
+        "name": "كحلي3",
+        "hex": "#090A2C",
+        "image": "images/pants/trke ejr dy2a/pant (14).png"
+      },
+        {
+        "name": "كحلي4",
+        "hex": "#090A2C",
+        "image": "images/pants/trke ejr dy2a/pant (15).png"
+      },
+       {
+        "name": "أزرق فاتح",
+        "hex": "#3f51b5",
+        "image": "images/pants/trke ejr dy2a/pant (16).png"
+      }
+       
+    
+    ],
+    "featured": true
+  },
+  {
+    "id": "p020",
+    "typeId": "pants-sport",
+    "categoryId": "pants",
+    "name": "تركي بويفريند",
+    "description": "قصة عصرية وخامة متينة توفر راحة كاملة طوال اليوم.",
+    "price": 13,
+    "currency": "USD",
+    "sizes": [
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38"
+    ],
+    "colors": [
+      {
+        "name": "كحلي فاتح ",
+        "hex": "#435C8F",
+        "image": "images/pants/trke boyfreind/pant (1).png"
+      },
+       {
+        "name": "كحلي فاتح2",
+        "hex": "#435C8F",
+        "image": "images/pants/trke boyfreind/pant (2).png"
+      },
+       {
+        "name": "أسود",
+        "hex": "#000000",
+        "image": "images/pants/trke boyfreind/pant (3).png"
+      },
+       {
+        "name": "3كحلي غامق",
+        "hex": "#090A2C",
+        "image": "images/pants/trke ejr dy2a/pant (13).png"
+      }
+      
+    ],
+    "featured": false
+  },
+  {
+    "id": "p021",
+    "typeId": "pants-sport",
+    "categoryId": "pants",
+    "name": "وطني",
+    "description": "قصة عصرية وخامة متينة توفر راحة كاملة طوال اليوم.",
+    "price": 8,
+    "currency": "USD",
+    "sizes": [
+   "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56"
+    ],
+    "colors": [
+      {
+        "name": "سماوي فاتح",
+        "hex": "#bbdefb",
+        "image": "/images/pants/ejr dy2a/pant (1).png"
+      },
+       
+         {
+        "name": "أسود",
+        "hex": "#000000",
+        "image": "/images/pants/ejr dy2a/pant (3).png"
+      },
+         {
+        "name": "رمادي غامق",
+        "hex": "#37474f",
+        "image": "/images/pants/ejr dy2a/pant (4).png"
+      }
+      
+    ],
+    "featured": false
+  },
+  {
+    "id": "p022",
+    "typeId": "pants-sport",
+    "categoryId": "pants",
+    "name": "تركي اجر واسعة",
+    "description": "قصة عصرية وخامة متينة توفر راحة كاملة طوال اليوم.",
+    "price": 16,
+    "currency": "USD",
+    "sizes": [
+ "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38"
+ 
+    ],
+    "colors": [
+      {
+        "name": "أزرق رمادي فاتح",
+        "hex": "#D8EBF6",
+        "image": "/images/pants/ejer wes3a trke/pant (1).png"
+      },
+     {
+        "name": "أزرق فاتح",
+        "hex": "#1565c0",
+        "image": "/images/pants/ejer wes3a trke/pant (2).png"
+      },
+      {
+        "name": "كحلي غامق",
+        "hex": "#3949ab",
+        "image": "/images/pants/ejer wes3a trke/pant (3).png"
+      },
+      {
+        "name": "2كحلي غامق",
+        "hex": "#3949ab",
+        "image": "/images/pants/ejer wes3a trke/pant (4).png"
+      }
+    ],
+    "featured": false
+  },
+  {
+    "id": "p023",
+    "typeId": "pants-sport",
+    "categoryId": "pants",
+    "name": "جينز عادي أجر ضيقة",
+    "description": "قصة عصرية وخامة متينة توفر راحة كاملة طوال اليوم.",
+    "price": 16,
+    "currency": "USD",
+    "sizes": [
+   "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56"
+    ],
+    "colors": [
+      {
+        "name": "سماوي فاتح",
+        "hex": "#bbdefb",
+        "image": "/images/pants/ejer wes3a/pant (1).png"
+      },
+      {
+        "name": "أزرق غامق",
+        "hex": "#062C81",
+        "image": "/images/pants/ejer wes3a/pant (2).png"
+      },
+      {
+        "name": "أزرق رمادي فاتح",
+        "hex": "#D8EBF6",
+        "image": "/images/pants/ejer wes3a/pant (3).png"
+      }
+      
+    ],
+    "featured": false
+  },
+  
+  {
+    "id": "p025",
+    "typeId": "pants-jeans",
+    "categoryId": "pants",
+    "name": "براشوت",
+    "description": "قصة عصرية وخامة متينة توفر راحة كاملة طوال اليوم.",
+    "price": 5,
+    "currency": "USD",
+    "sizes": [
+      "29",
+      "30",
+      "31",
+       "32",
+      "33",
+      "34",
+      "35",
+      "36",
+       "37",
+      "38",
+      "39",
+      "40"
+      
+    ],
+    "colors": [
+      {
+        "name": "أسود",
+        "hex": "#000000",
+        "image": "images/pants/parchoot/pant (2).png"
+      },
+      {
+        "name": "بني فاتح",
+        "hex": "#887235",
+        "image": "images/pants/parchoot/pant (3).png"
+      },
+       {
+        "name": "كحلي ",
+        "hex": "#070C51",
+        "image": "images/pants/parchoot/pant (6).png"
+      },
+      {
+        "name": "جردوني",
+        "hex": "#90a4ae",
+        "image": "images/pants/parchoot/pant (15).png"
+      },
+       {
+        "name": "بيج",
+        "hex": "#fff9c4",
+        "image": "images/pants/parchoot/pant (16).png"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": "p026",
+    "typeId": "pants-jeans",
+    "categoryId": "pants",
+    "name": "yufo",
+    "description": "قصة عصرية وخامة متينة توفر راحة كاملة طوال اليوم.",
+    "price": 10,
+    "currency": "USD",
+    "sizes": [
+         "29",
+      "30",
+      "31",
+       "32",
+      "33",
+      "34",
+      "35",
+      "36",
+       "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "colors": [
+      {
+        "name": "زيتي غامق",
+        "hex": "#558b2f",
+        "image": "/images/pants/yufo/pant (13).png"
+      },
+   
+      {
+        "name": "جردوني",
+        "hex": "#757575",
+        "image": "/images/pants/yufo/pant (21).png"
+      },
+      {
+        "name": "أسود",
+        "hex": "#000000",
+        "image": "/images/pants/yufo/pant (22).png"
+      },
+      {
+        "name": "بيج",
+        "hex": "#ffe082",
+        "image": "/images/pants/yufo/pant (24).png"
+      }
+      
+    ],
+    "featured": false
+  },
+  {
+    "id": "p027",
+    "typeId": "pants-jeans",
+    "categoryId": "pants",
+    "name": "يوفو كتان",
+    "description": "قصة عصرية وخامة متينة توفر راحة كاملة طوال اليوم.",
+    "price": 17,
+    "currency": "USD",
+    "sizes": [
+         "29",
+      "30",
+      "31",
+       "32",
+      "33",
+      "34",
+      "35",
+      "36",
+       "37",
+      "38",
+      "39",
+      "40"
+    ],
+    "colors": [
+      {
+        "name": "بني ",
+        "hex": "#806B22",
+        "image": "images/pants/yufo/yufo keten/pant (4).png"
+      },
+        {
+        "name": "رمادي غامق",
+        "hex": "#455a64",
+        "image": "images/pants/yufo/yufo keten/pant (10).png"
+      },
+        {
+        "name": "أسود",
+        "hex": "#000000",
+        "image": "images/pants/yufo/yufo keten/pant (14).png"
+      }
+    
+     
+    ],
+    "featured": false
+  },
+  {
+    "id": "p028",
+    "typeId": "pants-classic",
+    "categoryId": "pants",
+    "name": "زارا",
+    "description": "قصة عصرية وخامة متينة توفر راحة كاملة طوال اليوم.",
+    "price": 15,
+    "currency": "USD",
+    "sizes": [
+       "29",
+      "30",
+      "31",
+       "32",
+      "33",
+      "34",
+      "35",
+      "36",
+       "37",
+      "38"
+      
+    ],
+    "colors": [
+      {
+        "name": "أسود",
+        "hex": "#000000",
+        "image": "images/pants/zara/pant (17).png"
+      },
+       {
+        "name": "زيتي فاتح",
+        "hex": "#B8B893",
+        "image": "/images/pants/yufo/pant (19).png"
+      }
+  
+        
+    ],
+    "featured": false
+  },
+  
+  
+  {
+    "id": "p031",
+    "typeId": "pants-classic",
+    "categoryId": "pants",
+    "name": "بنطال كلاسيك قماش",
+    "description": "قصة عصرية وخامة متينة توفر راحة كاملة طوال اليوم.",
+    "price": 17,
+    "currency": "USD",
+    "sizes": [
+      "29",
+      "30",
+      "31",
+       "32",
+      "33",
+      "34",
+      "35",
+      "36",
+       "37",
+      "38"
+      
+    ],
+    "colors": [
+      {
+        "name": "رمادي فاتح",
+        "hex": "#cfd8dc",
+        "image": "/images/pants/rasme/rasme/pant (19).png"
+      },
+      {
+        "name": "أسود",
+        "hex": "#000000",
+        "image": "/images/pants/rasme/rasme/pant (13).png"
+      },
+      {
+        "name": "جردوني",
+        "hex": "#455a64",
+        "image": "/images/pants/rasme/rasme/pant (10).png"
+      },
+      {
+        "name": "كحلي",
+        "hex": "#07054F",
+        "image": "/images/pants/rasme/rasme/pant (24).png"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": "p032",
+    "typeId": "pants-classic",
+    "categoryId": "pants",
+    "name": "بنطال كلاسيك رسمي كتان",
+    "description": "قصة عصرية وخامة متينة توفر راحة كاملة طوال اليوم.",
+    "price": 17,
+    "currency": "USD",
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      {
+        "name": "أسود",
+        "hex": "#030221",
+        "image": "/images/pants/rasme/pant (23).png"
+      },
+       {
+        "name": "أسود ماب",
+        "hex": "#000000",
+        "image": "/images/pants/rasme/pant (20).png"
+      },
+       {
+        "name": "تبني",
+        "hex": "#AD950B",
+        "image": "/images/pants/rasme/pant (22).png"
+      },
+      {
+        "name": "زيتي غامق",
+        "hex": "#5A4E06",
+        "image": "/images/pants/rasme/pant (31).png"
+      }
+      
+    ],
+    "featured": false
+  },
+  
+  
+  {
+    "id": "p037",
+    "typeId": "shoes-sport",
+    "categoryId": "shoes",
+    "name": "سكيتشرز",
+    "description": "تصميم متين وخامة فاخرة تجمع بين الراحة والأناقة في كل خطوة.VITNAM",
+    "price": 17,
+    "currency": "USD",
+    "sizes": [
+     
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "colors": [
+      {
+        "name": "أسود كعب أبيض",
+        "hex": "#000000",
+        "image": "images/shoes/sketcher/sketchers (1).png"
+      },
+       {
+        "name": "رمادي",
+        "hex": "#90a4ae",
+        "image": "images/shoes/sketcher/sketchers (2).png"
+      },
+        {
+        "name": "أسود",
+        "hex": "#000000",
+        "image": "images/shoes/sketcher/sketchers (3).png"
+        }
+    ],
+    "featured": true
+  },
+  {
+    "id": "p038",
+    "typeId": "shoes-sport",
+    "categoryId": "shoes",
+    "name": "nike",
+    "description": "تصميم متين وخامة فاخرة تجمع بين الراحة والأناقة في كل خطوة.VITNAM",
+    "price": 15,
+    "currency": "USD",
+    "sizes": [
+     
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "colors": [
+      {
+        "name": "رمادي غامق",
+        "hex": "#455a64",
+        "image": "images/shoes/nike/nike (1).png"
+      },
+      {
+        "name": "أسود",
+        "hex": "#000000",
+        "image": "images/shoes/nike/nike (2).png"
+      }
+       
+    ],
+    "featured": false
+  },
+  {
+    "id": "p039",
+    "typeId": "shoes-sport",
+    "categoryId": "shoes",
+    "name": "zoom x",
+    "description": "تصميم متين وخامة فاخرة تجمع بين الراحة والأناقة في كل خطوة.COPY ORIGINAL",
+    "price": 29,
+    "currency": "USD",
+    "sizes": [
+     
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "colors": [
+      {
+        "name": "رمادي",
+        "hex": "#cfd8dc",
+        "image": "images/shoes/zoomx/zoomx (1).png"
+      },
+       {
+        "name": "رمادي و ازرق",
+        "hex": "#6698FF",
+        "image": "images/shoes/zoomx/zoomx (2).png"
+      },
+       {
+        "name": "أبيض و فوسفوري",
+        "hex": "#5EFB6E",
+        "image": "images/shoes/zoomx/zoomx (3).png"
+      }
+     
+    ],
+    "featured": false
+  },
+  {
+    "id": "p040",
+    "typeId": "shoes-sport",
+    "categoryId": "shoes",
+    "name": "حذاء رياضي يومي",
+    "description": "تصميم متين وخامة فاخرة تجمع بين الراحة والأناقة في كل خطوة.VITNAM",
+    "price": 24,
+    "currency": "USD",
+    "sizes": [
+     
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "colors": [
+      {
+        "name": "أسود كامل",
+        "hex": "#000000",
+        "image": "images/shoes/3 sha7tat/shoes3 (1).png"
+      },
+       {
+        "name": "أسود كعب أبيض",
+        "hex": "#FFFFFF",
+        "image": "images/shoes/3 sha7tat/shoes3 (2).png"
+      }
+     
+    ],
+    "featured": false
+  },
+  {
+    "id": "p041",
+    "typeId": "shoes-sport",
+    "categoryId": "shoes",
+    "name": "reebok",
+    "description": "تصميم متين وخامة فاخرة تجمع بين الراحة والأناقة في كل خطوة.",
+    "price": 29,
+    "currency": "USD",
+    "sizes": [
+     
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "colors": [
+      {
+        "name": "رمادي غامق",
+        "hex": "#37474f",
+        "image": "images/shoes/reebok/reebock (1).png"
+      },
+       {
+        "name": "أسود",
+        "hex": "#000000",
+        "image": "images/shoes/reebok/reebock (2).png"
+      }, 
+      {
+        "name": "سكري",
+        "hex": "#f9fbe7",
+        "image": "images/shoes/reebok/reebock (3).png"
+      }
+    
+      
+    ],
+    "featured": false
+  },
+   {
+    "id": "p0504",
+    "typeId": "shoes-sport",
+    "categoryId": "shoes",
+    "name": "نايك ماركة",
+    "description": "تصميم متين وخامة فاخرة تجمع بين الراحة والأناقة في كل خطوة.",
+    "price": 19,
+    "currency": "USD",
+    "sizes": [
+  
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "colors": [
+      {
+        "name": "رمادي غامق",
+        "hex": "#37474f",
+        "image": "images/shoes/nike1/nike (1).png"
+      },
+       {
+        "name": "أسود",
+        "hex": "#000000",
+        "image": "images/shoes/nike1/nike (2).png"
+      }
+        
+    ],
+    "featured": false
+  },
+  {
+    "id": "p0501",
+    "typeId": "shoes-sport",
+    "categoryId": "shoes",
+    "name": "حذاء n",
+    "description": "تصميم متين وخامة فاخرة تجمع بين الراحة والأناقة في كل خطوة.",
+    "price": 19,
+    "currency": "USD",
+    "sizes": [
+   
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "colors": [
+      {
+        "name": "أسود كعب رمادي",
+        "hex": "#e0e0e0",
+        "image": "images/shoes/shoes n 3ade/shoes n (1).png"
+      },
+        {
+        "name": "أسود كعب أبيض",
+        "hex": "#111111",
+        "image": "images/shoes/shoes n 3ade/shoes n (2).png"
+      }
+        
+    ],
+    "featured": false
+  },
+    {
+    "id": "p0502",
+    "typeId": "shoes-sport",
+    "categoryId": "shoes",
+    "name": "حذاء n",
+    "description": "تصميم متين وخامة فاخرة تجمع بين الراحة والأناقة في كل خطوة.",
+    "price": 18,
+    "currency": "USD",
+    "sizes": [
+      
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "colors": [
+      {
+        "name": "بيج",
+        "hex": "#ffe0b2",
+        "image": "images/shoes/N mu5ml/shoesNM (1).png"
+      },
+        {
+        "name": "رمادي غامق",
+        "hex": "#455a64",
+        "image": "images/shoes/N mu5ml/shoesNM (2).png"
+      }
+        
+    ],
+    "featured": false
+  },
+  {
+    "id": "p0503",
+    "typeId": "shoes-sport",
+    "categoryId": "shoes",
+    "name": "فيتنام",
+    "description": "تصميم متين وخامة فاخرة تجمع بين الراحة والأناقة في كل خطوة.",
+    "price": 14,
+    "currency": "USD",
+    "sizes": [
+      
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "colors": [
+      {
+        "name": "رمادي",
+        "hex": "#cfd8dc",
+        "image": "images/shoes/vitnam/vitnam (2).png"
+      },
+        {
+        "name": "أبيض",
+        "hex": "#FFFFFF",
+        "image": "images/shoes/vitnam/vitnam (1).png"
+      }
+        
+    ],
+    "featured": false
+  },
+    {
+    "id": "p0505",
+    "typeId": "shoes-sport",
+    "categoryId": "shoes",
+    "name": "jordan",
+    "description": "تصميم متين وخامة فاخرة تجمع بين الراحة والأناقة في كل خطوة.",
+    "price": 14,
+    "currency": "USD",
+    "sizes": [
+      
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "colors": [
+      {
+        "name": "رمادي",
+        "hex": "#455a64",
+        "image": "images/shoes/jordan/jordan (1).png"
+      },
+        {
+        "name": "أبيض",
+        "hex": "#FFFFFF",
+        "image": "images/shoes/jordan/jordan (2).png"
+      }
+        
+    ],
+    "featured": false
+  },
+    {
+    "id": "p0506",
+    "typeId": "shoes-sport",
+    "categoryId": "shoes",
+    "name": "shoes",
+    "description": "تصميم متين وخامة فاخرة تجمع بين الراحة والأناقة في كل خطوة.",
+    "price": 14,
+    "currency": "USD",
+    "sizes": [
+      
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "colors": [
+      {
+        "name": "أسود",
+        "hex": "#111111",
+        "image": "images/shoes/shoesD/shoesD (1).png"
+      },
+        {
+        "name": "أبيض",
+        "hex": "#FFFFFF",
+        "image": "images/shoes/shoesD/shoesD (2).png"
+      }
+        
+    ],
+    "featured": false
+  },
+   {
+    "id": "p0507",
+    "typeId": "shoes-sport",
+    "categoryId": "shoes",
+    "name": "shoes air force",
+    "description": "تصميم متين وخامة فاخرة تجمع بين الراحة والأناقة في كل خطوة.",
+    "price": 14,
+    "currency": "USD",
+    "sizes": [
+      
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "colors": [
+      {
+        "name": "أسود",
+        "hex": "#111111",
+        "image": "images/shoes/airforce/airforce (1).png"
+      },
+        {
+        "name": "أبيض",
+        "hex": "#FFFFFF",
+        "image": "images/shoes/airforce/airforce (2).png"
+      }
+        
+    ],
+    "featured": false
+  },
+   {
+    "id": "p0508",
+    "typeId": "shoes-sport",
+    "categoryId": "shoes",
+    "name": "shoes d",
+    "description": "تصميم متين وخامة فاخرة تجمع بين الراحة والأناقة في كل خطوة.",
+    "price": 14,
+    "currency": "USD",
+    "sizes": [
+     
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "colors": [
+      {
+        "name": "أبيض",
+        "hex": "#FFFFFF",
+        "image": "images/shoes/shoes3/shoes3 (1).png"
+      },
+        {
+        "name": "رمادي",
+        "hex": "#90a4ae",
+        "image": "images/shoes/shoes3/shoes3 (2).png"
+      },
+       {
+        "name": "أسود",
+        "hex": "#111111",
+        "image": "images/shoes/shoes3/shoes3.png"
+      }
+        
+    ],
+    "featured": false
+  },
+   {
+    "id": "p0509",
+    "typeId": "shoes-sport",
+    "categoryId": "shoes",
+    "name": "shoes ",
+    "description": "تصميم متين وخامة فاخرة تجمع بين الراحة والأناقة في كل خطوة.",
+    "price": 9,
+    "currency": "USD",
+    "sizes": [
+      
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "colors": [
+      {
+        "name": "أسود",
+        "hex": "#111111",
+        "image": "images/shoes/2mesh/2 (2).png"
+      },
+        {
+        "name": "رمادي",
+        "hex": "#cfd8dc",
+        "image": "images/shoes/2mesh/2mesh (1).png"
+      }
+        
+    ],
+    "featured": false
+  },
+    {
+    "id": "p0510",
+    "typeId": "shoes-sport",
+    "categoryId": "shoes",
+    "name": "shoes Leather ",
+    "description": "تصميم متين وخامة فاخرة تجمع بين الراحة والأناقة في كل خطوة.",
+    "price": 14,
+    "currency": "USD",
+    "sizes": [
+      
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "colors": [
+      {
+        "name": "أسود",
+        "hex": "#111111",
+        "image": "images/shoes/shoesj/shoesj (1).png"
+      },
+        {
+        "name": "أبيض",
+        "hex": "#FFFFFF",
+        "image": "images/shoes/shoesj/shoesj (2).png"
+      }
+        
+    ],
+    "featured": false
+  },
+    {
+    "id": "p0511",
+    "typeId": "shoes-sport",
+    "categoryId": "shoes",
+    "name": "shoes S",
+    "description": "تصميم متين وخامة فاخرة تجمع بين الراحة والأناقة في كل خطوة.",
+    "price": 9,
+    "currency": "USD",
+    "sizes": [
+     
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "colors": [
+      {
+        "name": "رمادي",
+        "hex": "#cfd8dc",
+        "image": "images/shoes/shoesS/shoesS (2).png"
+      },
+        {
+        "name": "أسود",
+        "hex": "#111111",
+        "image": "images/shoes/shoesS/shoesS (1).png"
+      }
+        
+    ],
+    "featured": false
+  },
+  {
+    "id": "p0512",
+    "typeId": "shoes-sport",
+    "categoryId": "shoes",
+    "name": "shoes new zoom",
+    "description": "تصميم متين وخامة فاخرة تجمع بين الراحة والأناقة في كل خطوة.",
+    "price": 9,
+    "currency": "USD",
+    "sizes": [
+      
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "colors": [
+      {
+        "name": "رمادي",
+        "hex": "#455a64",
+        "image": "images/shoes/shoesk/shoesk (1).png"
+      },
+        {
+        "name": "أسود",
+        "hex": "#111111",
+        "image": "images/shoes/shoesk/shoesk (2).png"
+      }
+        
+    ],
+    "featured": false
+  },
+  {
+    "id": "p0513",
+    "typeId": "shoes-sport",
+    "categoryId": "shoes",
+    "name": "shoes air max ",
+    "description": "تصميم متين وخامة فاخرة تجمع بين الراحة والأناقة في كل خطوة.",
+    "price": 9,
+    "currency": "USD",
+    "sizes": [
+      
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "colors": [
+      {
+        "name": "زيتي",
+        "hex": "#2e7d32",
+        "image": "images/shoes/shoesai/shoesai (1).png"
+      },
+        {
+        "name": "أسود",
+        "hex": "#111111",
+        "image": "images/shoes/shoesai/shoesai (2).png"
+      }
+        
+    ],
+    "featured": false
+  },
+  {
+    "id": "p043",
+    "typeId": "shoes-classic",
+    "categoryId": "shoes",
+    "name": "حذاء كلاسيك جلد",
+    "description": "تصميم متين وخامة فاخرة تجمع بين الراحة والأناقة في كل خطوة.",
+    "price": 17,
+    "currency": "USD",
+    "sizes": [
+      
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "colors": [
+      
+      {
+        "name": "أبيض",
+        "hex": "#FFFFFF",
+        "image": "images/shoes/rasme jld/rasme jld (1).png"
+      },
+      {
+        "name": "أبيض + v",
+        "hex": "#FFFFFF",
+        "image": "images/shoes/rasme jld/rasme jld (2).png"
+      }
+    ],
+    "featured": true
+  },
+  {
+    "id": "p044",
+    "typeId": "shoes-classic",
+    "categoryId": "shoes",
+    "name": "حذاء كلاسيك رسمي",
+    "description": "تصميم متين وخامة فاخرة تجمع بين الراحة والأناقة في كل خطوة.",
+    "price": 17,
+    "currency": "USD",
+    "sizes": [
+      
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ],
+    "colors": [
+      {
+        "name": "أسود",
+        "hex": "#000000",
+        "image": "images/shoes/rasme shamwa/rasme shamwa (1).png"
+      },
+       {
+        "name": "ذهبي",
+        "hex": "#C9A227",
+        "image": "images/shoes/rasme shamwa/rasme shamwa (2).png"
+      },
+       {
+        "name": "رمادي",
+        "hex": "#bdbdbd",
+        "image": "images/shoes/rasme shamwa/rasme shamwa (3).png"
+      },
+       {
+        "name": "كحلي",
+        "hex": "#3949ab",
+        "image": "images/shoes/rasme shamwa/rasme shamwa (4).png"
+      }
+      
+    
+    ],
+    "featured": false
+  },
+  
+  {
+    "id": "p0200",
+    "typeId": "shorts-sport",
+    "categoryId": "shorts",
+    "name": "شورت سكليس سادة",
+    "description": "تصميم متين وخامة فاخرة تجمع بين الراحة والأناقة في كل خطوة.",
+    "price": 5,
+    "currency": "USD",
+    "sizes": [
+    "L",
+      "XL",
+      "XXL"
+      
+    
+    ],
+    "colors": [
+      {
+        "name": "رمادي",
+        "hex": "#cfd8dc",
+        "image": "/images/shorts/seda/shortS (1).png"
+      },
+      
+      {
+        "name": "سماوي",
+        "hex": "#00e5ff",
+        "image": "/images/shorts/seda/shortS (2).png"
+      },
+      {
+        "name": "أسود",
+        "hex": "#000000",
+        "image": "/images/shorts/seda/shortS (3).png"
+      },
+      {
+        "name": "جردوني",
+        "hex": "#455a64",
+        "image": "/images/shorts/seda/shortS (4).png"
+      },
+      {
+        "name": "كحلي",
+        "hex": "#16146A",
+        "image": "/images/shorts/seda/shortS (5).png"
+      },
+      {
+        "name": "زيتي",
+        "hex": "#9e9d24",
+        "image": "/images/shorts/seda/shortS (6).png"
+      }
+      
+      
+    ],
+    "featured": false
+    
+  },
+    {
+    "id": "p058",
+    "typeId": "shorts-sport",
+    "categoryId": "shorts",
+    "name": "شورت سكليس مموه",
+    "description": "تصميم متين وخامة فاخرة تجمع بين الراحة والأناقة في كل خطوة.",
+    "price": 6,
+    "currency": "USD",
+    "sizes": [
+    
+      "L",
+      "XL",
+      "XXL"
+    
+    ],
+    "colors": [
+      {
+        "name": "برونز",
+        "hex": "#87703B",
+        "image": "/images/shorts/short mmwh/shortM (3).png"
+      },
+         {
+        "name": "أبيض",
+        "hex": "#FFFFFF",
+        "image": "/images/shorts/short mmwh/shortM (2).png"
+      },
+      
+         {
+        "name": "رمادي غامق",
+        "hex": "#37474f",
+        "image": "/images/shorts/short mmwh/shortM (1).png"
+      },
+      
+         {
+        "name": "بيج",
+        "hex": "#ffecb3",
+        "image": "/images/shorts/short mmwh/shortM (4).png"
+      }
+
+
+    ],
+    "featured": false
+  },
+  {
+    "id": "p059",
+    "typeId": "shorts-sport",
+    "categoryId": "shorts",
+    "name": "شورت سكليس اديدس",
+    "description": "تصميم متين وخامة فاخرة تجمع بين الراحة والأناقة في كل خطوة.",
+    "price": 5,
+    "currency": "USD",
+    "sizes": [
+     
+      "L",
+      "XL",
+      "XXL"
+     
+    ],
+    "colors": [
+      {
+        "name": "زيتي",
+        "hex": "#827717",
+        "image": "/images/shorts/adidas/shortA (1).png"
+      },
+      {
+        "name": "أبيض",
+        "hex": "#FFFFFF",
+        "image": "/images/shorts/adidas/shortA (2).png"
+      },
+        
+      {
+        "name": "سماوي",
+        "hex": "#81d4fa",
+        "image": "/images/shorts/adidas/shortA (3).png"
+      },
+        
+      {
+        "name": "أسود",
+        "hex": "#000000",
+        "image": "/images/shorts/adidas/shortA (4).png"
+      }  
+    ],
+    "featured": false
+  },
+  {
+    "id": "p062",
+    "typeId": "shorts-sport",
+    "categoryId": "shorts",
+    "name": "شورت سكليس on",
+    "description": "تصميم متين وخامة فاخرة تجمع بين الراحة والأناقة في كل خطوة.",
+    "price": 5,
+    "currency": "USD",
+    "sizes": [
+  
+      "L",
+      "XL",
+      "XXL"
+      
+    ],
+    "colors": [
+      {
+        "name": "رمادي",
+        "hex": "#37474f",
+        "image": "/images/shorts/short on/shortO (1).png"
+      },
+         {
+        "name": "كحلي",
+        "hex": "#3949ab",
+        "image": "/images/shorts/short on/shortO (2).png"
+      },
+      
+         {
+        "name": "سماوي",
+        "hex": "#4fc3f7",
+        "image": "/images/shorts/short on/shortO (3).png"
+         }
+    ],
+    "featured": false
+  },
+   {
+    "id": "p300",
+    "typeId": "shorts-jeans",
+    "categoryId": "shorts",
+    "name": "شورت سكوبا",
+    "description": "تصميم متين وخامة فاخرة تجمع بين الراحة والأناقة في كل خطوة.",
+    "price": 4,
+    "currency": "USD",
+    "sizes": [
+     
+      "L",
+      "XL",
+      "XXL"
+     
+    ],
+    "colors": [
+      {
+        "name": "أسود",
+        "hex": "#000000",
+        "image": "/images/shorts/short skooba/shortSk (3).png"
+      },
+      {
+        "name": "سكري",
+        "hex": "#e0e0e0",
+        "image": "/images/shorts/short skooba/shortSk (1).png"
+      },
+      {
+        "name": "بيج",
+        "hex": "#ffe082",
+        "image": "/images/shorts/short skooba/shortSk (2).png"
+      },
+      {
+        "name": "أزرق رمادي فاتح",
+        "hex": "#cfd8dc",
+        "image": "/images/shorts/short skooba/shortSk (4).png"
+      },
+      {
+        "name": "رمادي غامق",
+        "hex": "#b0bec5",
+        "image": "/images/shorts/short skooba/shortSk (5).png"
+      },
+      {
+        "name": "أبيض",
+        "hex": "#FFFFFF",
+        "image": "/images/shorts/short skooba/shortSk (6).png"
+      },
+      {
+        "name": "زيتي",
+        "hex": "#33691e",
+        "image": "/images/shorts/short skooba/shortSk (7).png"
+      }   
+    ],
+    "featured": false
+  },
+  {
+    "id": "p303",
+    "typeId": "shorts-jeans",
+    "categoryId": "shorts",
+    "name": "شورت باراشوت",
+    "description": "تصميم متين وخامة فاخرة تجمع بين الراحة والأناقة في كل خطوة.",
+    "price": 5,
+    "currency": "USD",
+    "sizes": [
+      "L",
+      "XL",
+      "XXL"
+      
+    ],
+    "colors": [
+      {
+        "name": "رمادي",
+        "hex": "#cfd8dc",
+        "image": "/images/shorts/short parachoot/shortpa (2).png"
+      },
+        {
+        "name": "أسود",
+        "hex": "#000000",
+        "image": "/images/shorts/short parachoot/shortpa (1).png"
+      },
+        {
+        "name": "adidas",
+        "hex": "#000000",
+        "image": "/images/shorts/short parachoot/shortpa (3).png"
+      },
+        {
+        "name": "nike",
+        "hex": "#000000",
+        "image": "/images/shorts/short parachoot/shortpa (4).png"
+      },
+        {
+        "name": "athlete",
+        "hex": "#000000",
+        "image": "/images/shorts/short parachoot/shortpa (5).png"
+      }
+      
+      ],
+    "featured": false
+  },
+
+   {
+    "id": "p301",
+    "typeId": "shorts-casual",
+    "categoryId": "shorts",
+    "name": "شورت سباحة",
+    "description": "تصميم متين وخامة فاخرة تجمع بين الراحة والأناقة في كل خطوة.",
+    "price": 4,
+    "currency": "USD",
+    "sizes": [
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "colors": [
+      {
+        "name": "أسود",
+        "hex": "#000000",
+        "image": "/images/shorts/shortSb/shortSb (2).png"
+      },
+      {
+        "name": "برتقالي",
+        "hex": "#FF8F03",
+        "image": "/images/shorts/shortSb/shortSb (1).png"
+      }
+      ],
+    "featured": false
+    }
+
+
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "sweaters",
+    "name": "الكنزات",
+    "nameEn": "Sweaters",
+    "image": "images/kanzet.png",
+    "order": 1
+  },
+  {
+    "id": "pants",
+    "name": "البناطيل",
+    "nameEn": "Pants",
+    "image": "images/pants.png",
+    "order": 2
+  },
+  {
+    "id": "shoes",
+    "name": "الأحذية",
+    "nameEn": "Shoes",
+    "image": "images/shoesbackg.png",
+    "order": 3
+  },
+  {
+    "id": "shorts",
+    "name": "الشورتات",
+    "nameEn": "Shorts",
+    "image": "images/shorts.png",
+    "order": 4
+  }
+
+]

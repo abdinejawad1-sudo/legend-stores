@@ -1,0 +1,82 @@
+[
+  {
+    "id": "sweaters-oversized",
+    "categoryId": "sweaters",
+    "name": "أوفر سايز",
+    "image": "images/oversizbak.png"
+  },
+  {
+    "id": "sweaters-polo",
+    "categoryId": "sweaters",
+    "name": "بولو",
+    "image": "images/polo.png"
+  },
+  {
+    "id": "sweaters-hoodie",
+    "categoryId": "sweaters",
+    "name": "تيشيرت",
+    "image": "images/t-shirt.png"
+  },
+  {
+    "id": "chemise",
+    "categoryId": "sweaters",
+    "name": "قمصان",
+    "image": "images/amys.png"
+  },
+  {
+    "id": "set",
+    "categoryId": "sweaters",
+    "name": "سيت كامل",
+    "image": "images/set.png"
+  },
+  {
+    "id": "pants-sport",
+    "categoryId": "pants",
+    "name": "جينز",
+    "image": "images/pants1.png"
+  },
+  {
+    "id": "pants-jeans",
+    "categoryId": "pants",
+    "name": "يوفو & براشوت",
+    "image": "images/yufoparachoot.png"
+  },
+  {
+    "id": "pants-classic",
+    "categoryId": "pants",
+    "name": "كلاسيك",
+    "image": "images/pantr.png"
+  },
+  {
+    "id": "shoes-sport",
+    "categoryId": "shoes",
+    "name": "رياضي",
+    "image": "images/shoess.png"
+  },
+  {
+    "id": "shoes-classic",
+    "categoryId": "shoes",
+    "name": "كلاسيك",
+    "image": "images/rasmes.png"
+  },
+  
+  {
+    "id": "shorts-sport",
+    "categoryId": "shorts",
+    "name": "سكليس",
+    "image": "images/sklis.png"
+  },
+  {
+    "id": "shorts-jeans",
+    "categoryId": "shorts",
+    "name": "سكوبا & باراشوت",
+    "image": "images/parachoot&sko.png"
+  },
+  {
+    "id": "shorts-casual",
+    "categoryId": "shorts",
+    "name": "سباحة",
+    "image": "images/sbe7a.png"
+  }
+
+]
